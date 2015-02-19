@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/15-puzzle.iml" filepath="$PROJECT_DIR$/15-puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary2410/openCVLibrary2410.iml" filepath="$PROJECT_DIR$/openCVLibrary2410/openCVLibrary2410.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVSample15puzzle/openCVSample15puzzle.iml" filepath="$PROJECT_DIR$/openCVSample15puzzle/openCVSample15puzzle.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,2 @@
+C:\Users\simon\Documents\15-puzzle\openCVSample15puzzle\build\intermediates\classes\debug
+C:\Users\simon\Documents\15-puzzle\openCVSample15puzzle\build\intermediates\pre-dexed\debug\classes-73678139d52de0b6bd619a6c9f0ec05a026db41e.jar
